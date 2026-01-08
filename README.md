@@ -1,4 +1,4 @@
-# Secure Multiplayer Game Server
+# Multiplayer Game Server
 
 This project is a real-time multiplayer game server written in C. It uses TCP sockets and will eventually include SDL2 graphics, server-side input validation, and basic cheat detection.  
 The server supports multiple players and is designed to be secure, responsive, and cross-platform.
