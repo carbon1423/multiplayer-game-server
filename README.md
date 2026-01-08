@@ -10,7 +10,7 @@ The server supports multiple players and is designed to be secure, responsive, a
 - Set up hosting multiple clients using threads
 - Clean connection and disconnection of clients
 - Basic SDL2 game logic
-- Have the ability to display multiple clients at once, but randomly crashes
+- Have the ability to display multiple clients at once
 - `test_client.c` creates a non graphical client that "moves" every second
 - Update each clients screens with the other players positions
 - Broadcaster stops sending signals if a client is no longer active
